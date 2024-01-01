@@ -1,4 +1,6 @@
 ## Custom Knowledge AI Agent
+![Tech Diagram](images/Technology_Diagram.png)
+
 The Custom Knowledge AI Agent is trained on up-to-date research papers from professional bodybuilding coaches and doctors. It leverages GBT3.5-Turbo with LangChain and Metaphor that allows it to access live data from the web. Get specialized training data and Youtube videos to help you on your journey.
 
 ## Features
